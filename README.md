@@ -19,3 +19,6 @@ I'm currently studying Information Technology in Turku University of Applied Sci
 
 <!-- CC0-1.0 licensed LinkedIn icon from the Simple Icons project https://github.com/simple-icons/simple-icons -->
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn](https://www.linkedin.com/in/markus-murto/)
+
+<!-- CC0-1.0 licensed Matrix icon from the Simple Icons project https://github.com/simple-icons/simple-icons -->
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />Matrix](https://matrix.to/#/@murtom:kapsi.fi)
