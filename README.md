@@ -10,11 +10,11 @@ I'm currently studying Information Technology in Turku University of Applied Sci
 
 ## FOSS school projects I've worked on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kentsuuu93&repo=kokija.tiko2020.trade)](https://github.com/Kentsuuu93/kokija.tiko2020.trade)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=KivaKeli)](https://github.com/murtoM/KivaKeli)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mtijas&repo=lopokulu)](https://github.com/mtijas/lopokulu/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=lopokulu-react)](https://github.com/murtoM/lopokulu-react)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=KivaKeli)](https://github.com/murtoM/KivaKeli)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kentsuuu93&repo=kokija.tiko2020.trade)](https://github.com/Kentsuuu93/kokija.tiko2020.trade)
 
 ## Links
 
