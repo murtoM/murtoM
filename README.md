@@ -6,9 +6,11 @@ I'm currently studying Information Technology in Turku University of Applied Sci
 
 ## Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=invekotin)](https://github.com/murtoM/invekotin)
 
 ## FOSS school projects I've worked on
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=invekotin)](https://github.com/murtoM/invekotin)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=meeting-scheduler)](https://github.com/murtoM/meeting-scheduler)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mtijas&repo=lopokulu)](https://github.com/mtijas/lopokulu/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=lopokulu-react)](https://github.com/murtoM/lopokulu-react)
