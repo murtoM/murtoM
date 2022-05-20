@@ -15,6 +15,8 @@ I'm currently studying Information Technology in Turku University of Applied Sci
 [![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=KivaKeli)](https://github.com/murtoM/KivaKeli)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kentsuuu93&repo=kokija.tiko2020.trade)](https://github.com/Kentsuuu93/kokija.tiko2020.trade)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=murtoM&repo=building-ai)](https://github.com/murtoM/building-ai)
+
 ## Links
 
 <!-- MIT licensed Globe icon from the Open Iconic project https://github.com/iconic/open-iconic -->
